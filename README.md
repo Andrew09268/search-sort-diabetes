@@ -25,7 +25,7 @@ python script.py
 
 ## Sample Output
 ```
-Choose a column to search (Glucose, Age, BMI, etc.): Glucose
+Choose a column to search (Glucose, Age, BMI, etc.): glucose
 Enter a value to search for: 120
 
 Choose search method:
@@ -33,10 +33,10 @@ Choose search method:
 2. Binary Search
 Enter choice: 2
 Sorting "Glucose" column before Binary Search...
-Binary Search: Found at row index 15
-Time taken: 0.00321s
+Found at row index 408
+Time taken: 0.16069s
 
-Choose a column to sort (Glucose, Age, BMI, etc.): Age
+Choose a column to sort (Glucose, Age, BMI, etc.): age
 
 Choose sorting algorithm:
 1. Bubble Sort
@@ -47,7 +47,7 @@ Enter choice: 4
 Sorting by "Age" using chosen method...
 Sorting completed.
 Sorted data saved as "sorted-diabetes.csv".
-Time taken: 0.00567s
+Time taken: 0.06612s
 ```
 
 ## License
